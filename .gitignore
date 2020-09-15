@@ -5,6 +5,7 @@
 *.csv*
 *.zip
 *.tar.gz
+*.tfrec
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -54,6 +55,11 @@ wheels/
 *.egg
 MANIFEST
 
+
+# Images and all
+*.jpg
+*.png
+*.jpeg
 
 # Unit test / coverage reports
 htmlcov/
